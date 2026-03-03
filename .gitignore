@@ -1,6 +1,7 @@
 .DS_Store
 .build/
-CLAUDE.md
-.claire/
+.swiftpm/
+*.xcodeproj
+*.xcworkspace
 .claude/worktrees/
 .claude/settings.local.json
