@@ -1,0 +1,6 @@
+.DS_Store
+.build/
+CLAUDE.md
+.claire/
+.claude/worktrees/
+.claude/settings.local.json

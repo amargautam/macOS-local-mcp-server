@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.amargautam.macos-local-mcp</string>
+    <key>ProgramArguments</key>
+    <array>
+        <!-- Replace with the actual absolute path to the binary -->
+        <string>/Users/YOURUSERNAME/bin/macos-local-mcp</string>
+    </array>
+    <key>RunAtLoad</key>
+    <false/>
+    <key>KeepAlive</key>
+    <false/>
+    <key>StandardOutPath</key>
+    <string>/Users/YOURUSERNAME/.macos-local-mcp/server.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/YOURUSERNAME/.macos-local-mcp/server.log</string>
+</dict>
+</plist>
